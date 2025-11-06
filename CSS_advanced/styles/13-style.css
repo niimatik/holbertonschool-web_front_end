@@ -40,6 +40,10 @@ a:link {
 	text-decoration: none;
 }
 
+a:visited{
+	font-style: italic;
+}
+
 a:hover {
 	text-decoration: underline;
 }
