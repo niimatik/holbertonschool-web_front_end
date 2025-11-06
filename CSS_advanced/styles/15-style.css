@@ -31,6 +31,10 @@ html {
 	--section-title-color: var(--color-black);
 }
 
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
 body {
 	color: #161616;
 	font-family: var(--font-family-base);
