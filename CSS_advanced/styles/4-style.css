@@ -3,6 +3,7 @@ html{
 }
 body{
 	color: #161616;
+	font-family: var(--font-family-base);
 }
 a{
 	color: #161616;
@@ -23,5 +24,6 @@ a{
 	--color-light-grey: #f3f3f3;
 	--color-dark-grey: #353535;
 	--text-color: var(--color-black);
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
